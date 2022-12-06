@@ -1,0 +1,17 @@
+# ninja log v5
+3	1451	6920431428966088	CMakeFiles/Tick_Tack_Toe.dir/main.cpp.obj	5113ab46231ae1c8
+10	369	6893515380360935	CMakeFiles/Tick_Tack_Toe.dir/win_checking.cpp.obj	96574185bc4fa9f2
+634	798	6920448423716483	Tick_Tack_Toe.exe	16660cb6ae2ff841
+3	586	6898258287173980	CMakeFiles/Tick_Tack_Toe.dir/preperation.cpp.obj	39cd44834ac2ccc9
+1	292	6893144191860727	build.ninja	87046da3715c2986
+2	633	6920448422094655	CMakeFiles/Tick_Tack_Toe.dir/board_changing.cpp.obj	f31f6fb9d209491a
+2	595	6920449089953949	CMakeFiles/Tick_Tack_Toe.dir/board_changing.cpp.obj	f31f6fb9d209491a
+596	711	6920449091065808	Tick_Tack_Toe.exe	16660cb6ae2ff841
+2	673	6920449490409711	CMakeFiles/Tick_Tack_Toe.dir/board_changing.cpp.obj	f31f6fb9d209491a
+674	789	6920449491541819	Tick_Tack_Toe.exe	16660cb6ae2ff841
+3	617	6920449773868497	CMakeFiles/Tick_Tack_Toe.dir/board_changing.cpp.obj	f31f6fb9d209491a
+617	731	6920449774950768	Tick_Tack_Toe.exe	16660cb6ae2ff841
+4	691	6920451045869180	CMakeFiles/Tick_Tack_Toe.dir/board_changing.cpp.obj	f31f6fb9d209491a
+692	867	6920451047624892	Tick_Tack_Toe.exe	16660cb6ae2ff841
+2	637	6920451587576143	CMakeFiles/Tick_Tack_Toe.dir/board_changing.cpp.obj	f31f6fb9d209491a
+637	761	6920451588772538	Tick_Tack_Toe.exe	16660cb6ae2ff841
